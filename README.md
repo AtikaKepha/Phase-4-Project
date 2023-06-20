@@ -72,7 +72,7 @@ From this method, the 'RMSE" Increased by 0.0739196 from the results of the prev
 * The ALS-based Matrix Factorization model and MF algorithm with ALS have higher RMSE values, suggesting lower accuracy. 
 * The Hybrid strategy also shows a higher RMSE value compared to SVD, indicating comparatively lower accuracy.
 
-# RECCOMMENDATIONS
+# RECOMMENDATIONS
 
 * Implement the SVD model to develop the movie recommendations system  as it had the lowest RMSE and relatively low MAE values giving better prediction accuracy in movie recommendations
 * As SVD and BaselineOnly models had the lowest RMSE and relatively low MAE values, meaning they are both a good option for the collaborative filtering recommendation system, we recommend comparing these two models based on other metrics, such as coverage and diversity, to make a final decision.
